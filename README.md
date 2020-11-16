@@ -57,6 +57,10 @@
   - [Product Database](https://egrow.io/database-research) - Product Finder (filter by price, reviews, estimated revenue, number of sellers, BSR).
 - Zonguru
   - [Niche Finder](https://www.zonguru.com/tools/niche-finder) - Product Finder (filter by competition, buyer demand, estimated revenue, search volume).
+- Seller App
+  - [Product Research](https://www.sellerapp.com/product-research.html) - Product Finder (filter by sales and revenue estimates, BSR fluctuations, ratings)
+- AMZScout
+  - [Product Database](https://amzscout.net/web-app/) - Product Finder (filter by average price, rank, rating)
 
 ### Product Research Resources
 
@@ -66,3 +70,17 @@
 - [How to Find a Product to Sell on Amazon FBA in 2020](https://www.feedbackexpress.com/find-product-sell-amazon-fba/)
 - [How to Discover a Profitable Product to Sell on Amazon in 2020](https://blog.egrow.io/how-to-discover-a-profitable-product-to-sell-on-amazon-in-2020/)
 - [The Ultimate ZonGuru Guide to Finding and Validating Your Amazon Product Research](https://www.zonguru.com/blog/the-ultimate-zonguru-guide-to-finding-and-validating-your-amazon-product-research)
+
+## Keyword Research
+
+### Keyword Research Software
+
+- MerchantWords
+  - [Keyword Advisor](https://www.merchantwords.com/amazon-keyword-research-service) - Historical Amazon search terms and metrics
+  - [Keyword Multiplier](https://www.merchantwords.com/amazon-keyword-research-service) - Related and complementary keywords finder
+- Ahrefs
+  - [Amazon Keyword Tool](https://ahrefs.com/amazon-keyword-tool) - Amazon keyword metrics and insights
+- KeywordTool_io
+  - [Amazon Keyword Tool](https://keywordtool.io/amazon) - Keyword finder that uses Amazon autocomplete
+- Sellics
+  - [Sonar](https://sellics.com/sonar-amazon-keyword-tool/) - Keyword finder that uses Amazon autocomplete
