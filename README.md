@@ -37,6 +37,7 @@
 - [Brand Registry and Trademarks](#brand-registry-and-trademarks)
   - [Software](#brand-registry-and-trademarks-software)
   - [Resources](#brand-registry-and-trademarks-resources)
+- [Developers](#developers)
 
 ---
 
@@ -84,3 +85,10 @@
   - [Amazon Keyword Tool](https://keywordtool.io/amazon) - Keyword finder that uses Amazon autocomplete
 - Sellics
   - [Sonar](https://sellics.com/sonar-amazon-keyword-tool/) - Keyword finder that uses Amazon autocomplete
+
+### Keyword Research Resources
+
+- [Amazon Listing Optimization: 6 Tips for Keyword Research](https://sellics.com/blog-keyword-research-amazon-listings/)
+- [How to Choose Keywords for Amazon](https://www.sellerlabs.com/blog/3-steps-to-successful-amazon-keyword-research-strategy/)
+- [The Ultimate Guide to Amazon Keyword Research](https://www.wordstream.com/blog/ws/2018/10/23/amazon-keyword-research)
+- [Complete Guide to Amazon Keyword Research in 2020](https://blog.repricer.com/resources/complete-guide-amazon-keyword-research/)
